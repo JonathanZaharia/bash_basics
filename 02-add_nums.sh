@@ -36,3 +36,5 @@ echo "Your display resolution is ${pixelTotal} pixels."
 
 echo "Calculation completed on:"
 date
+
+# Merge conflict resolved successfully
